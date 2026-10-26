@@ -7,7 +7,7 @@ Transforming raw data into actionable insights through analytics, visualization,
 </p>
  
 
-
+-----
 👨‍💻 About Me
 
 I'm a Data Analyst with an accounting background and a strong interest in Business Intelligence and Data Analytics.
@@ -34,7 +34,7 @@ I enjoy working with data to:
 </p>
  
 
- 
+
 📊 Portfolio Projects
  
 📈 Retail Sales Analytics Dashboard
@@ -50,7 +50,7 @@ Data cleaning, transformation, and exploratory analysis of car pricing data.
 Using Power Query and Excel to prepare raw datasets for analysis and reporting.
  
 
- 
+
 🎯 Areas of Interest
  
 - Data Analytics
@@ -62,7 +62,7 @@ Using Power Query and Excel to prepare raw datasets for analysis and reporting.
 - Reporting Automation
  
 
- 
+
 📚 Currently Learning
  
 - Advanced Power BI
@@ -80,7 +80,7 @@ Using Power Query and Excel to prepare raw datasets for analysis and reporting.
 </p>
  
 
- 
+
 🔥 GitHub Streak
  
 <p align="center">
@@ -88,17 +88,20 @@ Using Power Query and Excel to prepare raw datasets for analysis and reporting.
 </p>
  
 
- 
+
 🌍 Let's Connect
- 
+
+
 📧 Email: andro.hany1999@gmail.com
- 
-💻 GitHub: https://github.com/AndrewHany0
+
+💻 GitHub: https://github.com/AndrewHany0 
 
 💻 Linkedin: www.linkedin.com/in/andrewhanyisaac
 
+💻 Portfolio: https://bio.site/andrewhany
+
 
  
 
- 
+
 ⭐ Thanks for visiting my profile.
