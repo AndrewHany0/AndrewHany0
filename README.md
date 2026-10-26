@@ -1,37 +1,77 @@
-Hi there, I'm Andrew Hany 👋
-Data Analyst | Accountant
-Passionate about transforming raw data into meaningful insights using data analytics and business intelligence tools.
+Hi 👋, I'm Andrew Hany
+Data Analyst | Power BI Developer | Accountant
+Passionate about transforming raw data into meaningful insights through Data Analytics, Business Intelligence, and Data Visualization.
 
 🚀 About Me
-📊 Data Analytics
-📈 Power BI Developer
-🗄️ SQL Learner
-🐍 Python Learner
-📑 Excel & Power Query User
-💼 Accounting Background
+🔹 Data Analytics Enthusiast
+
+🔹 Power BI Dashboard Developer
+
+🔹 SQL & Database Analysis
+
+🔹 Python for Data Analysis
+
+🔹 Excel & Power Query Specialist
+
+🔹 Accounting Background with Business Understanding
+
+🔹 Currently Building Data Analytics Portfolio Projects
 
 🛠️ Skills
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+Excel
 
-https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+Power BI
 
-https://img.shields.io/badge/SQL-336791?style=for-the-badge
+Power Query
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+SQL
 
-https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge
+Python
 
-📂 Featured Projects
-Sales Analytics Dashboard
-E-Commerce Analysis
-Data Cleaning with Power Query
-Customer Insights Dashboard
+Git
+
+GitHub
+
+📊 Featured Projects
+📈 Sales Analytics Dashboard
+Power BI dashboard analyzing sales performance, KPIs, top products, and regional trends.
+
+🛒 E-Commerce Analysis
+Analysis of customer orders, revenue, and product performance using Excel, SQL, and Power BI.
+
+🧹 Data Cleaning with Power Query
+Data transformation, handling null values, fixing data types, and preparing datasets for analysis.
+
+👥 Customer Insights Dashboard
+Customer segmentation and behavior analysis to uncover meaningful business insights.
+
+📚 Currently Learning
+Advanced Power BI
+DAX
+SQL Optimization
+Python for Data Analytics
+Data Visualization Best Practices
 📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=AndrewHany0&show_icons=true&theme=tokyonight
+GitHub Stats
 
-🔥 Streak Stats
-https://streak-stats.demolab.com?user=AndrewHany0&theme=tokyonight
+🔥 GitHub Streak
+GitHub Streak
+
+🌟 Top Languages
+Top Languages
+
+🎯 Goals For 2026
+✅ Build a strong Data Analytics portfolio
+
+✅ Master Power BI & DAX
+
+✅ Improve SQL skills
+
+✅ Develop Python data analysis projects
+
+✅ tics projects
 
 📫 Connect With Me
-LinkedIn
 GitHub
+
+⭐ Thanks for visiting my profile!
