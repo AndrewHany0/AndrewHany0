@@ -36,20 +36,21 @@ I enjoy working with data to:
 
 
 📊 Portfolio Projects
- 
+
 📈 Retail Sales Analytics Dashboard
+
 Interactive Power BI dashboard for monitoring sales performance, KPIs, trends, and business insights.
- 
+
 🏕️ Population Camp Analysis
 Data analysis and visualization project built using Power BI to explore population and camp-related insights.
- 
+
 🚗 Car Price Dataset Analysis
 Data cleaning, transformation, and exploratory analysis of car pricing data.
- 
+
 🧹 Data Cleaning Projects
 Using Power Query and Excel to prepare raw datasets for analysis and reporting.
- 
 
+ 
 
 🎯 Areas of Interest
  
