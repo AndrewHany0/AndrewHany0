@@ -1,77 +1,76 @@
 Hi 👋, I'm Andrew Hany
 Data Analyst | Power BI Developer | Accountant
-Passionate about transforming raw data into meaningful insights through Data Analytics, Business Intelligence, and Data Visualization.
+Passionate about transforming raw data into actionable business insights through Data Analytics, Business Intelligence and Data Visualization.
 
-🚀 About Me
-🔹 Data Analytics Enthusiast
+👨‍💻 About Me
 
-🔹 Power BI Dashboard Developer
+📊 Aspiring Data Analyst
+📈 Power BI Dashboard Developer
+🧹 Data Cleaning & Transformation using Power Query
+🗄️ SQL for Data Extraction & Analysis
+🐍 Python for Data Analysis
+📚 Continuously learning Data Analytics & Business Intelligence
+💼 Strong Accounting & Sales Analysis Background
+🚀 Building real-world portfolio projects in Data Analytics
+🛠️ Tools & Technologies
 
-🔹 SQL & Database Analysis
 
-🔹 Python for Data Analysis
+📂 Featured Projects
 
-🔹 Excel & Power Query Specialist
-
-🔹 Accounting Background with Business Understanding
-
-🔹 Currently Building Data Analytics Portfolio Projects
-
-🛠️ Skills
-Excel
-
-Power BI
-
-Power Query
-
-SQL
-
-Python
-
-Git
-
-GitHub
-
-📊 Featured Projects
 📈 Sales Analytics Dashboard
-Power BI dashboard analyzing sales performance, KPIs, top products, and regional trends.
-
-🛒 E-Commerce Analysis
-Analysis of customer orders, revenue, and product performance using Excel, SQL, and Power BI.
-
+Sales KPIs
+Revenue Analysis
+Top Products
+Regional Performance
+Interactive Power BI Dashboard
+🛒 E-Commerce Analytics
+Customer Orders Analysis
+Product Performance
+Revenue Tracking
+Business Insights
 🧹 Data Cleaning with Power Query
-Data transformation, handling null values, fixing data types, and preparing datasets for analysis.
-
+Removing Duplicates
+Handling Null Values
+Data Transformation
+Data Validation
 👥 Customer Insights Dashboard
-Customer segmentation and behavior analysis to uncover meaningful business insights.
+Customer Segmentation
+Customer Behavior Analysis
+Data Visualization
+Interactive Reporting
 
-📚 Currently Learning
+📊 GitHub Statistics
+
+
+
+
+
+
+🎯 Current Learning Path
 Advanced Power BI
 DAX
 SQL Optimization
 Python for Data Analytics
 Data Visualization Best Practices
-📈 GitHub Stats
-GitHub Stats
-
-🔥 GitHub Streak
-GitHub Streak
-
-🌟 Top Languages
-Top Languages
-
-🎯 Goals For 2026
-✅ Build a strong Data Analytics portfolio
-
-✅ Master Power BI & DAX
-
-✅ Improve SQL skills
-
-✅ Develop Python data analysis projects
-
-✅ tics projects
+Business Intelligence Reporting
+💡 Areas of Interest
+Data Analytics
+Business Intelligence
+Sales Analytics
+E-Commerce Analytics
+Dashboard Design
+Data Visualization
+Accounting Analytics
+🚀 2026 Goals
+Build a Professional Data Analytics Portfolio
+Complete Multiple End-to-End Analytics Projects
+Master Power BI & DAX
+Strengthen SQL Skills
+Develop Advanced Python Analytics Projects
+Start Freelancing in Data Analytics
 
 📫 Connect With Me
-GitHub
 
-⭐ Thanks for visiting my profile!
+GitHub: https://github.com/AndrewHany0
+
+⭐ If you like my projects, feel free to explore my repositories and connect with me.
