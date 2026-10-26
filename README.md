@@ -1,47 +1,101 @@
-Hi 👋, I'm Andrew Hany
-Data Analyst | Power BI | SQL | Python
-Passionate about turning data into actionable insights through Data Analytics, Business Intelligence, and Data Visualization.
-
-🚀 About Me
-📊 Data Analyst
-📈 Power BI Dashboard Developer
-🧹 Data Cleaning with Power Query
-🗄️ SQL Data Analysis
-🐍 Python for Data Analytics
-💼 Accounting & Sales Analysis Background
-🚀 Building Data Analytics Portfolio Projects
-🛠️ Skills
-ExcelPower BIPower QuerySQLPythonGitGitHub
-
-📂 Featured Projects
-📈 Sales Analytics Dashboard
-Interactive Power BI dashboard for sales performance analysis.
-
-🛒 E-Commerce Analytics
-Customer orders, revenue, and product performance analysis.
-
-🧹 Data Cleaning Project
-Data transformation and cleaning using Power Query.
-
-👥 Customer Insights Dashboard
-Customer segmentation and behavior analysis.
-
-📊 GitHub Stats
-GitHub Stats
-
-🔥 GitHub Streak
-GitHub Streak
-
-💡 Areas of Interest
-Data Analytics
-Business Intelligence
-Power BI
-SQL
-Python
-Data Visualization
-Sales Analytics
-E-Commerce Analytics
-📫 Connect With Me
-GitHub
-
-⭐ Thank you for visiting my profile!
+<h1 align="center">Andrew Hany</h1>
+ 
+<h3 align="center">Data Analyst | Power BI Developer | SQL | Python | Excel</h3>
+ 
+<p align="center">
+Transforming raw data into actionable insights through analytics, visualization, and business intelligence.
+</p>
+ 
+---
+ 
+## 👨‍💻 About Me
+ 
+I'm a Data Analyst with an accounting background and a strong interest in Business Intelligence and Data Analytics.
+ 
+I enjoy working with data to:
+ 
+- Clean and transform raw datasets
+- Analyze business and sales performance
+- Design interactive Power BI dashboards
+- Generate insights that support decision-making
+- Build end-to-end analytics projects
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+<p align="left">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+ 
+---
+ 
+## 📊 Portfolio Projects
+ 
+### 📈 Retail Sales Analytics Dashboard
+Interactive Power BI dashboard for monitoring sales performance, KPIs, trends, and business insights.
+ 
+### 🏕️ Population Camp Analysis
+Data analysis and visualization project built using Power BI to explore population and camp-related insights.
+ 
+### 🚗 Car Price Dataset Analysis
+Data cleaning, transformation, and exploratory analysis of car pricing data.
+ 
+### 🧹 Data Cleaning Projects
+Using Power Query and Excel to prepare raw datasets for analysis and reporting.
+ 
+---
+ 
+## 🎯 Areas of Interest
+ 
+- Data Analytics
+- Business Intelligence
+- Sales Analytics
+- E-Commerce Analytics
+- Data Visualization
+- Dashboard Design
+- Reporting Automation
+ 
+---
+ 
+## 📚 Currently Learning
+ 
+- Advanced Power BI
+- DAX
+- SQL Optimization
+- Python for Data Analytics
+- Business Intelligence Solutions
+ 
+---
+ 
+## 📈 GitHub Stats
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AndrewHany0&show_icons=true&theme=tokyonight"/>
+</p>
+ 
+---
+ 
+## 🔥 GitHub Streak
+ 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AndrewHany0&theme=tokyonight"/>
+</p>
+ 
+---
+ 
+## 🌍 Let's Connect
+ 
+📧 Email: andro.hany1999@gmail.com
+ 
+💻 GitHub: AndrewHany0
+ 
+---
+ 
+⭐ Thanks for visiting my profile.
