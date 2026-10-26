@@ -6,23 +6,22 @@
 Transforming raw data into actionable insights through analytics, visualization, and business intelligence.
 </p>
  
----
- 
-## 👨‍💻 About Me
- 
+
+
+👨‍💻 About Me
+
 I'm a Data Analyst with an accounting background and a strong interest in Business Intelligence and Data Analytics.
- 
+
 I enjoy working with data to:
- 
+
 - Clean and transform raw datasets
 - Analyze business and sales performance
 - Design interactive Power BI dashboards
 - Generate insights that support decision-making
 - Build end-to-end analytics projects
- 
----
- 
-## 🛠️ Tech Stack
+
+
+🛠️ Tech Stack
  
 <p align="left">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -34,25 +33,25 @@ I enjoy working with data to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
  
----
+
  
-## 📊 Portfolio Projects
+📊 Portfolio Projects
  
-### 📈 Retail Sales Analytics Dashboard
+📈 Retail Sales Analytics Dashboard
 Interactive Power BI dashboard for monitoring sales performance, KPIs, trends, and business insights.
  
-### 🏕️ Population Camp Analysis
+🏕️ Population Camp Analysis
 Data analysis and visualization project built using Power BI to explore population and camp-related insights.
  
-### 🚗 Car Price Dataset Analysis
+🚗 Car Price Dataset Analysis
 Data cleaning, transformation, and exploratory analysis of car pricing data.
  
-### 🧹 Data Cleaning Projects
+🧹 Data Cleaning Projects
 Using Power Query and Excel to prepare raw datasets for analysis and reporting.
  
----
+
  
-## 🎯 Areas of Interest
+🎯 Areas of Interest
  
 - Data Analytics
 - Business Intelligence
@@ -62,9 +61,9 @@ Using Power Query and Excel to prepare raw datasets for analysis and reporting.
 - Dashboard Design
 - Reporting Automation
  
----
+
  
-## 📚 Currently Learning
+📚 Currently Learning
  
 - Advanced Power BI
 - DAX
@@ -72,30 +71,34 @@ Using Power Query and Excel to prepare raw datasets for analysis and reporting.
 - Python for Data Analytics
 - Business Intelligence Solutions
  
----
+
  
-## 📈 GitHub Stats
+📈 GitHub Stats
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AndrewHany0&show_icons=true&theme=tokyonight"/>
 </p>
  
----
+
  
-## 🔥 GitHub Streak
+🔥 GitHub Streak
  
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AndrewHany0&theme=tokyonight"/>
 </p>
  
----
+
  
-## 🌍 Let's Connect
+🌍 Let's Connect
  
 📧 Email: andro.hany1999@gmail.com
  
-💻 GitHub: AndrewHany0
+💻 GitHub: https://github.com/AndrewHany0
+
+💻 Linkedin: www.linkedin.com/in/andrewhanyisaac
+
+
  
----
+
  
 ⭐ Thanks for visiting my profile.
